@@ -66,5 +66,6 @@ javac games\SudokuGame.java && java games.SudokuGame
 - Ajustements d’IA (Tennis) et patterns d’obstacles plus variés.
 
 ## Auteur
+ANIS ZAMOUM
 Projet éducatif visant à consolider les bases de Java/Swing, la programmation événementielle et la logique de jeux 2D.
 
